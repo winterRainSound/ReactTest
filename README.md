@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# This app create for study myself!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+개인학습용 테스트 앱입니다.
 
 ## Available Scripts
 
